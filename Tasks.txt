@@ -1,0 +1,17 @@
+Tasks
+-------------------------------
+1] Total Project Cost and Total Project Benefit by Year in each Department
+
+2] Total Project by Project Phases
+
+3] Top 7 Project in Each Project Type by Status
+
+4] Total Projects in each Process Rate
+
+5] Top 10 Projects and Project Description by Profit
+
+DAX To be Done
+-----------------------------
+Process Rate - Column - Switch
+Profit - Measure - Project Benifit - Project Cost
+
